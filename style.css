@@ -1,0 +1,58 @@
+body {
+  background-color: #f4f4f4;
+}
+.icon {
+  width: 5%;
+  padding: 1vw;
+}
+.navbar {
+  background-color: #283e49;
+  width: 100%;
+}
+.container {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+}
+.left-side {
+  background-color: aqua;
+  width: 15%;
+}
+.middle-side {
+  width: 60%;
+  display: flex;
+}
+
+.buttonsBar {
+  display: flex;
+  flex-direction: row;
+}
+.curvedButton {
+  border-radius: 25%;
+}
+.posterBar {
+  display: flex;
+  flex-direction: row;
+}
+.blueButton {
+  background-color: #1885bc;
+}
+.right-side {
+  background-color: brown;
+  width: 25%;
+}
+
+.circledImage {
+  width: 6vw;
+  height: 6vw;
+  border-radius: 50%;
+}
+
+textarea {
+  width: 100%;
+  height: 10vw;
+}
+button {
+  padding: 2%;
+  margin: 2%;
+}
